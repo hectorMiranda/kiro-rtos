@@ -1,4 +1,4 @@
-# Spirit of Kiro - Firmware
+# MinuxStation - Firmware
 
 Custom RTOS implementation for Arduino Nano optimized for gaming applications.
 

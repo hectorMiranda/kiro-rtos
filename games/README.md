@@ -1,6 +1,6 @@
-# Spirit of Kiro - Games
+# MinuxStation - Games
 
-Sample games and development SDK for the Spirit of Kiro platform.
+Sample games and development SDK for the MinuxStation platform.
 
 ## Game Development Kit (SDK)
 

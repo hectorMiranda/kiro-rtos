@@ -1,4 +1,4 @@
-# Spirit of Kiro - Web Platform
+# MinuxStation - Web Platform
 
 React + Three.js web platform for downloading games, hardware files, and community interaction.
 

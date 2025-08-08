@@ -1,6 +1,6 @@
-# Spirit of Kiro - Hardware Design
+# MinuxStation - Hardware Design
 
-PCB design and 3D-printable enclosure for the Spirit of Kiro gaming platform.
+PCB design and 3D-printable enclosure for the MinuxStation gaming platform.
 
 ## PCB Specifications
 

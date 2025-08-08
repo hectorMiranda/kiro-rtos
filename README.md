@@ -1,10 +1,10 @@
-# Spirit of Kiro - Educational RTOS Gaming Platform
+# MinuxStation - Educational RTOS Gaming Platform
 
 An educational platform featuring a custom RTOS for Arduino Nano, designed to create a tiny gaming console with OLED display, buttons, and extensibility options.
 
 ## Project Overview
 
-Spirit of Kiro is a comprehensive educational platform that combines:
+MinuxStation is a comprehensive educational platform that combines:
 - **Custom RTOS** for Arduino Nano optimized for gaming
 - **Hardware Design** - PCB and 3D-printable enclosure
 - **Web Platform** - React + Three.js for downloads and community
@@ -23,7 +23,7 @@ Spirit of Kiro is a comprehensive educational platform that combines:
 ## Project Structure
 
 ```
-spirit-of-kiro/
+minuxstation/
 ├── firmware/           # RTOS and bootloader
 ├── hardware/          # PCB design and enclosure
 ├── web-platform/      # React + Three.js website

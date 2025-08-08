@@ -1,5 +1,5 @@
-#ifndef SPIRIT_KIRO_H
-#define SPIRIT_KIRO_H
+#ifndef MINUXSTATION_H
+#define MINUXSTATION_H
 
 #include <stdint.h>
 
@@ -56,4 +56,4 @@ uint16_t get_free_memory(void);
 #define COLOR_BLACK 0
 #define COLOR_WHITE 1
 
-#endif // SPIRIT_KIRO_H
+#endif // MINUXSTATION_H

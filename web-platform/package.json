@@ -1,7 +1,7 @@
 {
-  "name": "spirit-of-kiro-web",
+  "name": "minuxstation-web",
   "version": "1.0.0",
-  "description": "Web platform for Spirit of Kiro gaming console",
+  "description": "Web platform for MinuxStation gaming console",
   "type": "module",
   "scripts": {
     "dev": "vite",

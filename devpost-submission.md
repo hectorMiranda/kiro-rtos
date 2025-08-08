@@ -1,7 +1,7 @@
-# Spirit of Kiro - Devpost Submission
+# MinuxStation - Devpost Submission
 
 ## Project Name
-**Spirit of Kiro: Educational RTOS Gaming Platform**
+**MinuxStation: Educational RTOS Gaming Platform**
 
 ## Elevator Pitch
 An educational platform combining custom RTOS development, hardware design, and game programming to create a tiny handheld gaming console powered by Arduino Nano. Students learn embedded systems, real-time programming, and hardware design while building and programming their own retro-style gaming device.
@@ -10,7 +10,7 @@ An educational platform combining custom RTOS development, hardware design, and 
 The project was inspired by the need for hands-on embedded systems education that combines hardware, firmware, and software development. Classic gaming consoles like Game Boy provided the perfect context for learning real-time operating systems, memory optimization, and hardware constraints in an engaging way.
 
 ## What it does
-Spirit of Kiro is a comprehensive educational platform featuring:
+MinuxStation is a comprehensive educational platform featuring:
 
 - **Custom RTOS**: A preemptive multitasking kernel optimized for Arduino Nano's 2KB RAM and 32KB flash
 - **Gaming Hardware**: PCB design with OLED display, 6 buttons, potentiometer, buzzer, and GPIO expansion
@@ -90,7 +90,7 @@ Balancing functionality with size constraints:
 - **Educational Design**: Creating engaging learning experiences through practical projects
 - **Community Building**: Importance of documentation and accessibility in open-source projects
 
-## What's next for Spirit of Kiro
+## What's next for MinuxStation
 
 ### Short Term
 - Complete hardware prototyping and testing
@@ -132,7 +132,7 @@ Balancing functionality with size constraints:
 
 ## Repository Structure
 ```
-spirit-of-kiro/
+minuxstation/
 ├── firmware/          # RTOS and bootloader
 ├── hardware/         # PCB and enclosure designs
 ├── web-platform/     # React + Three.js website

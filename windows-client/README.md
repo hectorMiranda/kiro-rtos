@@ -1,6 +1,6 @@
-# Spirit of Kiro - Windows Client
+# MinuxStation - Windows Client
 
-C++ desktop application for flashing games and managing the Spirit of Kiro device.
+C++ desktop application for flashing games and managing the MinuxStation device.
 
 ## Features
 

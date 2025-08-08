@@ -1,6 +1,6 @@
-# Spirit of Kiro - Documentation
+# MinuxStation - Documentation
 
-Comprehensive documentation for the Spirit of Kiro educational gaming platform.
+Comprehensive documentation for the MinuxStation educational gaming platform.
 
 ## Documentation Structure
 
@@ -23,7 +23,7 @@ Comprehensive documentation for the Spirit of Kiro educational gaming platform.
 
 ## Educational Objectives
 
-The Spirit of Kiro platform is designed to teach:
+The MinuxStation platform is designed to teach:
 
 1. **Embedded Systems**: Real-time operating systems, hardware constraints
 2. **Game Development**: Graphics programming, input handling, optimization

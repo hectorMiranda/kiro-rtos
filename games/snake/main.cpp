@@ -1,4 +1,4 @@
-#include "../sdk/spirit_kiro.h"
+#include "../sdk/minuxstation.h"
 
 #define MAX_SNAKE_LENGTH 50
 #define GRID_SIZE 4
